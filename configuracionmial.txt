@@ -1,0 +1,5 @@
+smtp.gmail.com
+jorge.daniel.castro.formosa@gmail.com
+caco12formosa
+587
+jorge.daniel.castro.formosa@gmail.com

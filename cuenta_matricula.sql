@@ -1,0 +1,1 @@
+select * from cuenta_matricula where id_matricula= $P{id_matricula}
